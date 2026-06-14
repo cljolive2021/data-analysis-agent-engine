@@ -1,0 +1,21 @@
+idade,salario,experiencia_anos,departamento,cidade,performance_score,bonus_pct,nivel_educacao,tempo_empresa_meses
+25,45000,2,Vendas,São Paulo,72,5,Graduação,24
+32,65000,8,TI,Rio de Janeiro,85,10,Pós-Graduação,96
+28,52000,4,Financeiro,São Paulo,78,7,Graduação,36
+45,95000,18,Diretoria,Brasília,92,20,Pós-Graduação,180
+29,48000,3,RH,São Paulo,68,4,Graduação,18
+38,78000,12,TI,Rio de Janeiro,88,12,Pós-Graduação,120
+31,58000,6,Vendas,Curitiba,75,6,Graduação,48
+42,82000,15,Financeiro,São Paulo,90,15,Pós-Graduação,144
+26,46000,2,TI,Rio de Janeiro,70,5,Graduação,20
+35,72000,10,Vendas,Brasília,82,9,Pós-Graduação,108
+40,85000,14,Financeiro,São Paulo,91,16,Pós-Graduação,156
+27,50000,3,RH,Curitiba,72,5,Graduação,28
+44,92000,17,Diretoria,Rio de Janeiro,94,19,Pós-Graduação,168
+30,55000,5,TI,São Paulo,80,8,Graduação,60
+39,80000,13,Vendas,São Paulo,87,13,Pós-Graduação,132
+28,51000,4,Financeiro,Brasília,76,6,Graduação,42
+41,88000,16,TI,Curitiba,89,14,Pós-Graduação,152
+25,44000,1,RH,São Paulo,65,3,Graduação,12
+36,75000,11,Diretoria,Rio de Janeiro,86,11,Pós-Graduação,120
+33,68000,9,Vendas,Brasília,84,10,Graduação,84
