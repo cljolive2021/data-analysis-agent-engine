@@ -1,0 +1,4 @@
+postcss:
+  plugins:
+    tailwindcss: {}
+    autoprefixer: {}
