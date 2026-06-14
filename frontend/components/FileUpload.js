@@ -15,7 +15,7 @@ export default function FileUpload({ onFileSelect, selectedFile }) {
       if (isValid) {
         onFileSelect(file);
       } else {
-        alert('Por favor, selecione um arquivo CSV, Excel ou Parquet');
+        alert('Selecione um arquivo CSV, Excel ou Parquet');
       }
     }
   };
@@ -50,9 +50,8 @@ export default function FileUpload({ onFileSelect, selectedFile }) {
             <Upload className="w-8 h-8" />
             <div>
               <p className="font-semibold text-white">Clique para selecionar</p>
-              <p className="text-xs">ou arraste seu arquivo aqui</p>
+              <p className="text-xs">CSV, Excel ou Parquet</p>
             </div>
-            <p className="text-xs mt-2">CSV, Excel ou Parquet</p>
           </div>
         )}
       </button>

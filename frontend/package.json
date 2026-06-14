@@ -1,7 +1,6 @@
 {
   "name": "data-analysis-frontend",
   "version": "1.0.0",
-  "description": "Frontend para Motor de Análise de Dados - Copilot Studio",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -16,9 +15,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  },
-  "eslintConfig": {
-    "extends": "next/core-web-vitals"
   },
   "devDependencies": {
     "eslint": "^8.50.0",
